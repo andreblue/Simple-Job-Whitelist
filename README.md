@@ -1,4 +1,4 @@
-# Moved to [Gitlab](https://gitlab.com/andreblue)
+
 # Simple-Job-Whitelist
 A simple darkrp job whitelist.
 
